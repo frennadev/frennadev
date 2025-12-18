@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">What I Work On<br><br>➡️Blockchain & Protocol Engineering<br><br>➡️Solana and EVM-based systems<br><br>➡️Smart contracts, execution layers, and infra tooling<br><br>➡️Developer Tooling & SDKs<br><br>➡️APIs, SDK-style interfaces, and integration tooling<br><br>➡️Documentation and onboarding flows for builders<br><br>➡️Automation & AI-Driven Systems<br><br>➡️Agent-based platforms and execution pipelines<br><br>➡️Real-time data ingestion and orchestration<br><br>➡️Backend & Systems Engineering<br><br>➡️High-throughput services<br><br>➡️Event-driven and async architectures<br><br>Selected Work🏢<br><br>AiForge — Zero-code AI agent platform built on 0G Chain<br><br>NitroBot — High-performance trading and automation infrastructure<br><br>Ballistic — Solana execution and token launch tooling<br><br>RaptorChain / Raptor Finance — EVM-compatible Layer 1 and ecosystem tooling<br><br>(Some client and private work is not public.)<br><br><br>Get in Touch📞<br><br><br>🌐 Company: https://alphadevelopment.org<br><br>🐦 X (Twitter): https://x.com/frennadev<br><br>💼 LinkedIn: https://www.linkedin.com/in/frenna-dev-a18b20223</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -67,5 +63,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<p align="left">What I Work On<br><br>➡️Blockchain & Protocol Engineering<br><br>➡️Solana and EVM-based systems<br><br>➡️Smart contracts, execution layers, and infra tooling<br><br>➡️Developer Tooling & SDKs<br><br>➡️APIs, SDK-style interfaces, and integration tooling<br><br>➡️Documentation and onboarding flows for builders<br><br>➡️Automation & AI-Driven Systems<br><br>➡️Agent-based platforms and execution pipelines<br><br>➡️Real-time data ingestion and orchestration<br><br>➡️Backend & Systems Engineering<br><br>➡️High-throughput services<br><br>➡️Event-driven and async architectures<br><br>Selected Work🏢<br><br>AiForge — Zero-code AI agent platform built on 0G Chain<br><br>NitroBot — High-performance trading and automation infrastructure<br><br>Ballistic — Solana execution and token launch tooling<br><br>RaptorChain / Raptor Finance — EVM-compatible Layer 1 and ecosystem tooling<br><br>(Some client and private work is not public.)<br><br><br>Get in Touch📞<br><br><br>🌐 Company: https://alphadevelopment.org<br><br>🐦 X (Twitter): https://x.com/frennadev<br><br>💼 LinkedIn: https://www.linkedin.com/in/frenna-dev-a18b20223</p>
 
 ###
