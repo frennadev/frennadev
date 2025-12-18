@@ -1,16 +1,61 @@
-## Hi there 👋
+Frenna 👋
 
-<!--
-**frennadev/frennadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO — Alpha Developments
+Blockchain Systems • Developer Tooling • Automation Infrastructure
 
-Here are some ideas to get you started:
+About
+I’m the founder and CEO of Alpha Developments, a Web3/Developments engineering company I started in 2019.
+Over the past 5+ years, I’ve led the design and delivery of production-grade blockchain systems, developer tooling, and automation infrastructure used in real-world, revenue-generating environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on reducing complexity at the system boundary — designing clear abstractions, interfaces, and tooling that make on-chain and off-chain infrastructure easier to integrate, operate, and scale in production.
+
+I stay hands-on across system architecture, SDK design, and developer experience, ensuring the systems we ship are reliable, composable, and built to evolve over time.
+
+What I Work On
+
+➡️Blockchain & Protocol Engineering
+
+➡️Solana and EVM-based systems
+
+➡️Smart contracts, execution layers, and infra tooling
+
+➡️Developer Tooling & SDKs
+
+➡️APIs, SDK-style interfaces, and integration tooling
+
+➡️Documentation and onboarding flows for builders
+
+➡️Automation & AI-Driven Systems
+
+➡️Agent-based platforms and execution pipelines
+
+➡️Real-time data ingestion and orchestration
+
+➡️Backend & Systems Engineering
+
+➡️High-throughput services
+
+➡️Event-driven and async architectures
+
+Selected Work🏢
+
+AiForge — Zero-code AI agent platform built on 0G Chain
+
+NitroBot — High-performance trading and automation infrastructure
+
+Ballistic — Solana execution and token launch tooling
+
+RaptorChain / Raptor Finance — EVM-compatible Layer 1 and ecosystem tooling
+
+(Some client and private work is not public.)
+
+
+Get in Touch📞
+
+
+🌐 Company: https://alphadevelopment.org
+
+🐦 X (Twitter): https://x.com/frennadev
+
+💼 LinkedIn: https://www.linkedin.com/in/frenna-dev-a18b20223
+
