@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">FrennaDev<br><br>Founder & CEO — Alpha Developments<br>Blockchain Systems • Developer Tooling • Automation Infrastructure<br><br>About<br>I’m the founder and CEO of Alpha Developments, a Web3/Developments engineering company I started in 2019.<br>Over the past 5+ years, I’ve led the design and delivery of production-grade blockchain systems, developer tooling, and automation infrastructure used in real-world, revenue-generating environments.<br><br>My work focuses on reducing complexity at the system boundary — designing clear abstractions, interfaces, and tooling that make on-chain and off-chain infrastructure easier to integrate, operate, and scale in production.<br><br>I stay hands-on across system architecture, SDK design, and developer experience, ensuring the systems we ship are reliable, composable, and built to evolve over time.</p>
+<p align="left">FrennaDev<br><br>Founder & CEO — Alpha Developments<br>Blockchain Systems • Developer Tooling • Automation Infrastructure<br><br>About<br>I’m the founder and CEO of Alpha Developments, a Web3/Developments engineering company I started in 2019.<br>Over the past 5+ years, I’ve led the design and delivery of production-grade blockchain systems, developer tooling, and automation infrastructure used in real-world, revenue-generating environments.<br><br>My work focuses on reducing complexity at the system boundary designing clear abstractions, interfaces, and tooling that make on-chain and off-chain infrastructure easier to integrate, operate, and scale in production.<br><br>I stay hands-on across system architecture, SDK design, and developer experience, ensuring the systems we ship are reliable, composable, and built to evolve over time.</p>
 
 ###
 
